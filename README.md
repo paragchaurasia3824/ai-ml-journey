@@ -70,11 +70,22 @@ ai-ml-journey/
 | Stage | Status |
 |---|---|
 | GitHub portfolio setup | ✅ Done |
-| Python foundations | 🔄 Starting |
+| Python foundations | 🔄 In Progress |
 | Data science foundations | ⏳ Upcoming |
 | Machine learning | ⏳ Upcoming |
 | Deep learning | ⏳ Upcoming |
 | AI projects | ⏳ Upcoming |
+
+### Python Foundations Progress
+
+**Programs completed: 4**
+
+- ✅ User information input and output
+- ✅ Two-number addition
+- ✅ Celsius to Fahrenheit conversion
+- ✅ Five-subject percentage calculator
+
+**Current focus:** Python fundamentals through small, self-written programs and consistent practice.
 
 ## Principle
 
