@@ -59,6 +59,8 @@ Projects will be added here as I build them. Each project will include its objec
 ```text
 ai-ml-journey/
 ├── python-foundations/
+│   ├── basic-programs/
+│   └── operators-and-conditionals/
 ├── data-science/
 ├── machine-learning/
 ├── deep-learning/
@@ -78,12 +80,19 @@ ai-ml-journey/
 
 ### Python Foundations Progress
 
-**Programs completed: 4**
+**Programs completed: 8**
 
+#### Basic Programs
 - ✅ User information input and output
 - ✅ Two-number addition
 - ✅ Celsius to Fahrenheit conversion
 - ✅ Five-subject percentage calculator
+
+#### Operators & Conditionals
+- ✅ Largest of three numbers
+- ✅ Positive / negative number check
+- ✅ Even / odd number check
+- ✅ Simple calculator using operators and conditional statements
 
 **Current focus:** Python fundamentals through small, self-written programs and consistent practice.
 
